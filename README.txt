@@ -6,3 +6,5 @@ This file is changed
 =======
 This is changed
 >>>>>>> html_assignments
+
+this change is in master branch
